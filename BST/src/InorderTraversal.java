@@ -1,4 +1,9 @@
 public class InorderTraversal {
+    /**
+     *
+     * @param root
+     * this traversal method prints acceding order sorting
+     */
     void inorder(TreeNode root) {
         if (root == null) {
             return;
